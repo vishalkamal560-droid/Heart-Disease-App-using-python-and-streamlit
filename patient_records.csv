@@ -1,0 +1,102 @@
+patient_id,date,model_used,age,gender,bmi,smoking,hypertension,diabetes,family_history,obesity,alcohol,tobacco,ldl,hdl,bp,chest_pain,breathlessness,exercise_pain,prediction
+HD-4c8bbda3,2026-05-12 16:37:49,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+HD-725052e2,2026-05-12 16:42:50,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+HD-e49a930f,2026-05-12 16:44:13,ANN,53,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,150.0,Yes,Yes,Yes,High Risk
+HD-2946834e,2026-05-12 16:49:42,ANN,56,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,160.0,50.0,180.0,Yes,No,Yes,High Risk
+HD-16f5a900,2026-05-12 16:56:13,ANN,30,Male,48.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,170.0,Yes,Yes,Yes,High Risk
+HD-210190f6,2026-05-12 16:58:24,ANN,50,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,140.0,Yes,Yes,Yes,Low Risk
+HD-718f9b33,2026-05-12 16:58:42,ANN,50,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,140.0,Yes,Yes,Yes,Low Risk
+HD-29dcf00b,2026-05-12 16:59:07,ANN,76,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,140.0,Yes,Yes,Yes,Low Risk
+HD-fb2592f6,2026-05-12 17:05:18,ANN,30,Male,48.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,170.0,Yes,Yes,Yes,High Risk
+HD-017a08cb,2026-05-12 17:05:47,Random Forest,30,Male,48.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,170.0,Yes,Yes,Yes,High Risk
+HD-a650dbce,2026-05-12 17:06:54,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+HD-322dc107,2026-05-12 17:07:34,ANN,34,Male,44.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,172.0,Yes,Yes,Yes,High Risk
+HD-ae91edcc,2026-05-12 17:08:01,Random Forest,34,Male,44.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,172.0,Yes,Yes,Yes,High Risk
+HD-ba638e12,2026-05-12 17:08:42,Random Forest,34,Male,24.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,90.0,50.0,70.0,Yes,Yes,No,High Risk
+HD-157ead33,2026-05-12 17:09:32,Random Forest,34,Male,24.0,Yes,Yes,Yes,Yes,No,Yes,Yes,60.0,40.0,70.0,No,No,No,High Risk
+HD-980a0525,2026-05-12 17:10:02,Random Forest,34,Male,24.0,No,No,No,Yes,No,Yes,Yes,50.0,40.0,50.0,No,No,No,High Risk
+HD-373d6db7,2026-05-12 17:10:31,Random Forest,24,Female,24.0,No,No,No,Yes,No,No,No,50.0,40.0,50.0,No,No,No,High Risk
+HD-3608a9a3,2026-05-12 17:10:54,Random Forest,24,Female,24.0,No,No,No,Yes,No,No,No,50.0,30.0,50.0,No,Yes,No,High Risk
+HD-e56d1f11,2026-05-12 17:11:11,XGBoost,24,Female,24.0,No,No,No,Yes,No,No,No,50.0,30.0,50.0,No,Yes,No,High Risk
+HD-78c764a3,2026-05-12 17:11:39,XGBoost,24,Female,22.0,No,No,No,No,No,No,No,50.0,30.0,50.0,No,Yes,No,High Risk
+HD-a7738f19,2026-05-12 17:11:50,Ensemble,24,Female,22.0,No,No,No,No,No,No,No,50.0,30.0,50.0,No,Yes,No,High Risk
+HD-77c6e642,2026-05-12 17:12:08,ANN,24,Female,22.0,No,No,No,No,No,No,No,50.0,30.0,50.0,No,Yes,No,High Risk
+HD-5af5342c,2026-05-12 17:12:26,ANN,24,Female,22.0,No,No,No,No,No,No,No,50.0,30.0,50.0,Yes,No,Yes,High Risk
+HD-7b9ac010,2026-05-12 17:14:34,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+HD-4e8cae91,2026-05-12 17:14:45,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,High Risk
+HD-32a3b8f3,2026-05-12 17:14:56,XGBoost,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,High Risk
+HD-c1784602,2026-05-12 17:19:04,XGBoost,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,High Risk
+HD-6042ac40,2026-05-12 17:21:44,Random Forest,30,Female,22.0,No,No,No,No,No,No,No,60.0,30.0,60.0,No,Yes,No,High Risk
+HD-adc7270b,2026-05-12 17:22:37,XGBoost,30,Female,20.0,No,Yes,No,No,Yes,No,No,50.0,30.0,60.0,No,No,No,High Risk
+HD-dd2e27c8,2026-05-12 17:22:48,ANN,30,Female,20.0,No,Yes,No,No,Yes,No,No,50.0,30.0,60.0,No,No,No,High Risk
+HD-c520bd2b,2026-05-12 17:23:00,ANN,30,Male,20.0,No,Yes,No,No,Yes,No,No,50.0,30.0,60.0,No,No,No,High Risk
+HD-737c8e11,2026-05-12 17:23:39,ANN,30,Male,20.0,No,Yes,No,Yes,Yes,Yes,No,100.0,50.0,100.0,Yes,Yes,Yes,High Risk
+HD-07a9b4f8,2026-05-12 17:25:11,ANN,30,Male,22.0,Yes,Yes,No,Yes,Yes,Yes,No,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+HD-d914c484,2026-05-12 17:25:20,Random Forest,30,Male,22.0,Yes,Yes,No,Yes,Yes,Yes,No,100.0,50.0,120.0,Yes,Yes,Yes,High Risk
+HD-d10b0456,2026-05-12 17:25:31,XGBoost,30,Male,22.0,Yes,Yes,No,Yes,Yes,Yes,No,100.0,50.0,120.0,Yes,Yes,Yes,High Risk
+HD-808937c6,2026-05-12 17:43:03,Ensemble,52,Male,29.0,Yes,Yes,No,Yes,Yes,Yes,Yes,155.0,30.0,110.0,No,No,No,Low Risk
+HD-275b4062,2026-05-12 17:46:58,XGBoost,52,Male,29.0,Yes,Yes,No,Yes,Yes,Yes,Yes,155.0,30.0,110.0,No,No,No,Low Risk
+HD-6b7ecc4c,2026-05-12 17:47:16,Random Forest,52,Male,29.0,Yes,Yes,No,Yes,Yes,Yes,Yes,155.0,30.0,110.0,No,No,No,Low Risk
+ANN-L6067,2026-05-12 18:02:54,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+ANN-H11D1,2026-05-12 18:03:40,ANN,30,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,170.0,Yes,Yes,Yes,High Risk
+RF-HC4AE,2026-05-12 18:04:21,Random Forest,30,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,170.0,Yes,Yes,Yes,High Risk
+RF-HA57E,2026-05-12 18:06:27,Random Forest,30,Male,29.0,Yes,Yes,No,Yes,Yes,No,No,155.0,50.0,110.0,Yes,Yes,Yes,High Risk
+RF-HACF9,2026-05-12 18:10:32,Random Forest,30,Female,21.0,No,No,No,No,No,No,No,85.0,65.0,110.0,No,No,No,High Risk
+RF-HAEF9,2026-05-12 18:10:50,Random Forest,30,Female,21.0,Yes,No,No,No,No,No,Yes,85.0,65.0,110.0,No,No,No,High Risk
+RF-HB7AB,2026-05-12 18:11:02,Random Forest,30,Female,21.0,No,No,No,No,No,No,Yes,85.0,65.0,110.0,No,No,No,High Risk
+RF-LA7A9,2026-05-12 18:14:31,Random Forest,52,Male,29.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,155.0,50.0,120.0,No,No,Yes,Low Risk
+RF-L2DF8,2026-05-12 18:15:03,Random Forest,52,Male,29.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,155.0,50.0,120.0,Yes,No,Yes,Low Risk
+RF-L3BA3,2026-05-12 18:15:32,Random Forest,52,Male,39.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,155.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+RF-LD52D,2026-05-12 18:15:54,Random Forest,52,Male,49.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,155.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+RF-LC7A6,2026-05-12 18:16:30,Random Forest,52,Male,49.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,165.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+RF-L33E7,2026-05-12 18:16:49,Random Forest,52,Male,49.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,185.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+RF-L2A56,2026-05-12 18:17:03,Random Forest,52,Male,49.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,185.0,50.0,150.0,Yes,Yes,Yes,Low Risk
+RF-LBD1E,2026-05-12 18:17:24,Random Forest,52,Male,49.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,185.0,50.0,170.0,Yes,Yes,Yes,Low Risk
+RF-LE76D,2026-05-12 18:17:45,Random Forest,67,Male,49.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,185.0,50.0,170.0,Yes,Yes,Yes,Low Risk
+RF-LA1D6,2026-05-12 18:18:03,Random Forest,67,Male,49.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,185.0,50.0,220.0,Yes,Yes,Yes,Low Risk
+RF-L48DF,2026-05-12 18:18:17,Random Forest,67,Male,49.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,225.0,50.0,220.0,Yes,Yes,Yes,Low Risk
+RF-L85B1,2026-05-12 18:18:45,Random Forest,67,Female,50.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,225.0,50.0,220.0,Yes,Yes,Yes,Low Risk
+RF-L24C6,2026-05-12 18:19:05,Random Forest,67,Female,50.0,Yes,Yes,No,Yes,Yes,Yes,Yes,225.0,50.0,220.0,No,No,No,Low Risk
+RF-H8C07,2026-05-12 18:19:41,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,High Risk
+RF-H0BA6,2026-05-12 18:20:11,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,No,No,No,High Risk
+RF-H0037,2026-05-12 18:20:43,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,110.0,No,No,No,High Risk
+RF-H672D,2026-05-12 18:21:14,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,30.0,110.0,No,No,No,High Risk
+RF-L8BA7,2026-05-12 18:22:09,Random Forest,52,Male,29.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,30.0,110.0,No,No,No,Low Risk
+XGB-L8BF8,2026-05-12 18:22:37,XGBoost,52,Male,29.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,30.0,110.0,No,No,No,Low Risk
+XGB-L0C0D,2026-05-12 18:22:51,XGBoost,32,Male,29.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,30.0,110.0,No,No,No,Low Risk
+XGB-L9A14,2026-05-12 18:31:17,XGBoost,53,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,30.0,110.0,No,No,No,Low Risk
+XGB-HD833,2026-05-12 18:32:28,XGBoost,29,Male,28.0,Yes,Yes,Yes,Yes,Yes,No,Yes,80.0,30.0,110.0,Yes,No,No,High Risk
+ENS-HECFF,2026-05-12 18:39:52,Ensemble,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,High Risk
+ENS-HC1CC,2026-05-12 18:41:03,Ensemble,52,Male,20.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,120.0,No,No,No,High Risk
+ENS-L96D7,2026-05-12 18:41:25,Ensemble,52,Male,29.0,Yes,Yes,Yes,Yes,Yes,No,No,150.0,50.0,120.0,No,No,No,Low Risk
+ENS-L8716,2026-05-12 18:41:42,Ensemble,52,Male,29.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,120.0,No,No,No,Low Risk
+ENS-HDF8F,2026-05-12 18:41:54,Ensemble,52,Male,20.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,120.0,No,No,No,High Risk
+ENS-H35F6,2026-05-12 18:43:06,Ensemble,52,Male,20.0,Yes,Yes,Yes,Yes,Yes,No,No,150.0,50.0,120.0,No,No,No,High Risk
+ENS-L5CC2,2026-05-12 18:43:22,Ensemble,52,Male,29.0,Yes,Yes,Yes,Yes,Yes,No,No,150.0,50.0,120.0,No,No,No,Low Risk
+ENS-H1866,2026-05-12 18:43:50,Ensemble,52,Male,29.0,Yes,Yes,Yes,Yes,Yes,No,No,100.0,50.0,100.0,Yes,Yes,No,High Risk
+ENS-H74D1,2026-05-12 18:44:17,Ensemble,52,Male,20.0,Yes,Yes,Yes,Yes,Yes,No,No,100.0,50.0,100.0,Yes,Yes,No,High Risk
+ENS-L3583,2026-05-12 18:45:43,Ensemble,52,Male,29.0,Yes,Yes,Yes,Yes,Yes,No,No,150.0,50.0,110.0,Yes,Yes,No,Low Risk
+ANN-L6B42,2026-05-15 15:07:44,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+ANN-H8EA7,2026-05-15 15:08:03,ANN,30,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,170.0,50.0,150.0,Yes,Yes,Yes,Coronary Artery Disease 
+ANN-H4B3B,2026-05-15 15:09:22,ANN,30,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,170.0,50.0,150.0,Yes,Yes,Yes,Coronary Artery Disease 
+ANN-L210A,2026-05-18 13:41:44,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,100.0,Yes,Yes,Yes,Low Risk
+ANN-H4CD5,2026-05-18 13:42:03,ANN,30,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,150.0,Yes,Yes,Yes,Coronary Artery Disease 
+RF-H38B9,2026-05-18 13:42:51,Random Forest,30,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,150.0,No,Yes,Yes,Coronary Artery Disease 
+RF-H9A81,2026-05-18 13:43:15,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,100.0,No,Yes,Yes,Coronary Artery Disease 
+RF-H791D,2026-05-18 13:43:22,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,100.0,Yes,Yes,Yes,Coronary Artery Disease 
+ANN-LEB92,2026-05-18 13:43:51,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+ANN-HB36B,2026-05-18 13:44:15,ANN,30,Male,42.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,150.0,50.0,150.0,Yes,Yes,Yes,Coronary Artery Disease 
+ANN-H2B1A,2026-05-21 09:34:53,ANN,22,Male,22.0,No,No,Yes,No,No,No,No,100.0,50.0,120.0,Yes,Yes,Yes,Coronary Artery Disease 
+ANN-L3D4E,2026-05-21 09:46:50,ANN,67,Male,22.0,No,No,Yes,No,No,No,No,100.0,50.0,100.0,Yes,Yes,Yes,Low Risk
+ANN-H9D49,2026-05-21 09:47:32,ANN,67,Male,42.0,No,No,Yes,No,No,No,No,150.0,50.0,150.0,Yes,Yes,Yes,Coronary Artery Disease 
+ANN-L658E,2026-05-21 09:49:48,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+RF-H3FAA,2026-05-21 11:55:13,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Coronary Artery Disease 
+ANN-L7E56,2026-05-21 11:55:40,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+RF-HFE41,2026-05-21 11:56:12,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Coronary Artery Disease 
+XGB-H7F3A,2026-05-21 11:56:46,XGBoost,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Coronary Artery Disease 
+ENS-HD0CE,2026-05-21 11:57:03,Ensemble,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Coronary Artery Disease 
+ANN-LBE86,2026-05-21 11:57:50,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+RF-H0727,2026-05-21 11:58:00,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Coronary Artery Disease 
+ANN-L5807,2026-05-21 11:58:47,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+ANN-LAAA7,2026-05-21 14:09:04,ANN,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Low Risk
+RF-HD569,2026-10-10 10:19:54,Random Forest,30,Male,22.0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,100.0,50.0,120.0,Yes,Yes,Yes,Coronary Artery Disease 
